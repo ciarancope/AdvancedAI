@@ -17,3 +17,8 @@
 - This is a pretty cool framework which was originally made for playing Trackmania. He has some nice videos demonstrating it being put to use.
 - While Trackmania would be a cool game for us to work on, I think it could be a little out of our depth.
 - Still, there are some instructions for using this framework on other games.
+
+---
+https://github.com/Farama-Foundation/stable-retro - "A fork of gym-retro ('lets you turn classic video games into Gymnasium environments for reinforcement learning') with additional games, emulators and supported platforms."
+- Seems pretty interesting and useful for establishing games on the reinforcement learning side of things
+- Could choose a semi-difficult, interesting one from here. 
