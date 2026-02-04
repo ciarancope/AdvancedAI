@@ -19,6 +19,12 @@
 - Still, there are some instructions for using this framework on other games.
 
 ---
-https://github.com/Farama-Foundation/stable-retro - "A fork of gym-retro ('lets you turn classic video games into Gymnasium environments for reinforcement learning') with additional games, emulators and supported platforms."
+#### https://github.com/Farama-Foundation/stable-retro - "A fork of gym-retro ('lets you turn classic video games into Gymnasium environments for reinforcement learning') with additional games, emulators and supported platforms."
 - Seems pretty interesting and useful for establishing games on the reinforcement learning side of things
 - Could choose a semi-difficult, interesting one from here. 
+
+---
+#### https://github.com/amjadmajid/deep-reinforcement-learning-games-from-scratch - Deep Reinforcement Learning: Building Games from Scratch
+- This one is quite cool but the games are very basic (snake, gridsearch etc)
+- However, was all built without the use of gymnasium's library
+- Could provide a better underlying understanding of reinforcement learning and make for a better project. 
