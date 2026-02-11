@@ -33,6 +33,7 @@
 #### **Idea**: Use ViT for RL:
 - [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.05979)
 - [On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/abstract/document/10546317)
+- [stable-retro](https://github.com/Farama-Foundation/stable-retro)
 
 ---
 First decision is to train on tetris on different 
