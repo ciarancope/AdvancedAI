@@ -30,5 +30,5 @@
 - Could provide a better underlying understanding of reinforcement learning and make for a better project. 
 
 ---
-- **Idea**: Use ViT for RL:
+#### **Idea**: Use ViT for RL:
 - [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.05979)
