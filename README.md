@@ -28,3 +28,7 @@
 - This one is quite cool but the games are very basic (snake, gridsearch etc)
 - However, was all built without the use of gymnasium's library
 - Could provide a better underlying understanding of reinforcement learning and make for a better project. 
+
+---
+- **Idea**: Use ViT for RL:
+- [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.05979)
